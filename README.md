@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Abimanyu 👋
 
 <!--
 **AbimanyuNBA/AbimanyuNBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![Abimanyu](img/youtube%20banner%202.png) -->
+
+- 🔭 I’m currently working on ...
+
+I’m a student passionate about the world of coding and design, exploring everything from UI/UX to 2D/3D game development and modern web technologies.
+
+I build things that are visually sharp, intuitive to use, and technically solid — the full combo. ⚡
